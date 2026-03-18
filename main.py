@@ -1,5 +1,6 @@
 print('Hola mundo')
 
-nombre = input('Indique su nombre:\n').capitalize()
+numero = int(input('Ingrese un número: '))
+numero2 = int(input('ingrese otro número: '))
 
-print(f'Hola {nombre}.')
+print(f'{numero}{numero2}')
