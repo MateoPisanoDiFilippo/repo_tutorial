@@ -1,4 +1,4 @@
-print('Hola mundo')
+print('Hola mundo desde auxiliar')
 
 nombre = input('Indique su nombre:\n').capitalize()
 
